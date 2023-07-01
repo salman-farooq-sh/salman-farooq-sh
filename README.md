@@ -1,1 +1,1 @@
-My GitHub Gists and stand-alone Articles: https://gist.github.com/SalmanFarooqShiekh
+My GitHub Gists and Articles: https://gist.github.com/SalmanFarooqShiekh
