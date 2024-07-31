@@ -1,1 +1,1 @@
-My GitHub Gists and Articles: https://gist.github.com/salman-farooq-sh
+My GitHub Gists and Articles can be found at gist.github.com/salman-farooq-sh
