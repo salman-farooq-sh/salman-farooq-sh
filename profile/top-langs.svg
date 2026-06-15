@@ -1,8 +1,8 @@
 
       <svg
-        width="800"
+        width="500"
         height="210"
-        viewBox="0 0 800 210"
+        viewBox="0 0 500 210"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
@@ -92,7 +92,7 @@
           rx="4.5"
           height="99%"
           stroke="#e4e2e2"
-          width="799"
+          width="499"
           fill="#ffffff00"
           stroke-opacity="1"
         />
@@ -108,7 +108,7 @@
       
   
       <mask id="rect-mask">
-          <rect x="0" y="0" width="750" height="8" fill="white" rx="5"/>
+          <rect x="0" y="0" width="450" height="8" fill="white" rx="5"/>
         </mask>
         
         <rect
@@ -116,7 +116,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="318.21"
+          width="190.93"
           height="8"
           fill="#b07219"
         />
@@ -124,9 +124,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="318.21"
+          x="190.93"
           y="0"
-          width="188.06"
+          width="112.83"
           height="8"
           fill="#3572A5"
         />
@@ -134,9 +134,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="506.27"
+          x="303.76"
           y="0"
-          width="68.89"
+          width="41.33"
           height="8"
           fill="#555555"
         />
@@ -144,9 +144,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="575.16"
+          x="345.09"
           y="0"
-          width="55.96"
+          width="33.57"
           height="8"
           fill="#e34c26"
         />
@@ -154,9 +154,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="631.12"
+          x="378.65999999999997"
           y="0"
-          width="54.62"
+          width="32.77"
           height="8"
           fill="#f1e05a"
         />
@@ -164,9 +164,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="685.74"
+          x="411.42999999999995"
           y="0"
-          width="31.77"
+          width="19.06"
           height="8"
           fill="#f34b7d"
         />
@@ -174,9 +174,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="717.51"
+          x="430.48999999999995"
           y="0"
-          width="19.67"
+          width="11.8"
           height="8"
           fill="#89e051"
         />
@@ -184,9 +184,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="737.18"
+          x="442.28999999999996"
           y="0"
-          width="11.39"
+          width="16.83"
           height="8"
           fill="#663399"
         />
@@ -194,9 +194,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="748.5699999999999"
+          x="449.11999999999995"
           y="0"
-          width="10.54"
+          width="10.33"
           height="8"
           fill="#858585"
         />
@@ -204,9 +204,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="749.1099999999999"
+          x="449.44999999999993"
           y="0"
-          width="10.46"
+          width="10.27"
           height="8"
           fill="#427819"
         />
@@ -214,9 +214,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="749.5699999999999"
+          x="449.7199999999999"
           y="0"
-          width="10.25"
+          width="10.15"
           height="8"
           fill="#3B2F63"
         />
@@ -224,9 +224,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="749.8199999999999"
+          x="449.8699999999999"
           y="0"
-          width="10.18"
+          width="10.11"
           height="8"
           fill="#5e5086"
         />
