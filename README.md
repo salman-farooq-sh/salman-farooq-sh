@@ -1,11 +1,11 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=305 align="center" src="./profile/stats.svg" />
+  <img height=205 align="center" src="./profile/stats.svg" />
 </a>
 
 ---
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=305 align="center" src="./profile/top-langs.svg" />
+  <img height=205 align="center" src="./profile/top-langs.svg" />
 </a>
 
 ---
