@@ -1,5 +1,5 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=205 align="center" src="./profile/stats.svg" />
+  <img height=400 align="center" src="./profile/stats.svg" />
 </a>
 
 <!-- --- -->
