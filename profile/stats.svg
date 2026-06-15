@@ -1,8 +1,8 @@
 
       <svg
         width="336.09375000000006"
-        height="271"
-        viewBox="0 0 336.09375000000006 271"
+        height="255"
+        viewBox="0 0 336.09375000000006 255"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
@@ -139,7 +139,7 @@
         data-testid="stars"
       >82</text>
     </g>
-  </g><g transform="translate(0, 32)">
+  </g><g transform="translate(0, 30)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
       
     <svg data-testid="icon" class="icon" viewBox="0 0 16 16" version="1.1" width="16" height="16">
@@ -154,7 +154,7 @@
         data-testid="commits"
       >234</text>
     </g>
-  </g><g transform="translate(0, 64)">
+  </g><g transform="translate(0, 60)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
       
     <svg data-testid="icon" class="icon" viewBox="0 0 16 16" version="1.1" width="16" height="16">
@@ -169,7 +169,7 @@
         data-testid="prs"
       >12</text>
     </g>
-  </g><g transform="translate(0, 96)">
+  </g><g transform="translate(0, 90)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
       
     <svg data-testid="icon" class="icon" viewBox="0 0 16 16" version="1.1" width="16" height="16">
@@ -184,7 +184,7 @@
         data-testid="prs_merged"
       >9</text>
     </g>
-  </g><g transform="translate(0, 128)">
+  </g><g transform="translate(0, 120)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
       
     <svg data-testid="icon" class="icon" viewBox="0 0 16 16" version="1.1" width="16" height="16">
@@ -199,7 +199,7 @@
         data-testid="issues"
       >25</text>
     </g>
-  </g><g transform="translate(0, 160)">
+  </g><g transform="translate(0, 150)">
     <g class="stagger" style="animation-delay: 1200ms" transform="translate(25, 0)">
       
     <svg data-testid="icon" class="icon" viewBox="0 0 16 16" version="1.1" width="16" height="16">
@@ -214,7 +214,7 @@
         data-testid="discussions_started"
       >6</text>
     </g>
-  </g><g transform="translate(0, 192)">
+  </g><g transform="translate(0, 180)">
     <g class="stagger" style="animation-delay: 1350ms" transform="translate(25, 0)">
       
     <svg data-testid="icon" class="icon" viewBox="0 0 16 16" version="1.1" width="16" height="16">
