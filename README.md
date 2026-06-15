@@ -1,5 +1,5 @@
-![Stats](./stats.svg)
-![Top Languages](./top-langs.svg)
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
                                                                    
 [I write gists and articles sometimes.](https://gist.github.com/salman-farooq-sh)
 
