@@ -2,7 +2,7 @@
   <!-- <img height=400 align="center" src="./profile/stats.svg" /> -->
 <!-- </a> -->
 
-![](./profile/stats.svg)
+![Salman's github stats](./profile/stats.svg)
 
 <!-- --- -->
 
